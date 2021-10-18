@@ -10,3 +10,7 @@ soldiers alive will win.
 
 The starting board can be arranged so that the soldiers are placed in a checkerboard pattern, or randomly. The Kings and Knights are placed randomly behind the soldiers.
 All the characters move simultaneously
+
+Two modes: organized and Random<br />
+![animation](https://github.com/jibeombae/Kings_and_Knights/blob/main/animation.gif)
+
